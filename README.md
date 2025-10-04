@@ -32,6 +32,17 @@ This repository documents practical work and learning outcomes during a technica
 - Internship certificate issued by HAL's Chief Manager (Trg) for excellent performance and conduct [attached_file:9].
 - Practical experience corroborated by collaborative projects and evaluated through performance reviews during the tenure.
 
+## Photo Gallery
+
+- ![Main Gate HAL](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/1.jpg)
+- ![Group at Training Center](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/2.jpg)
+- ![Solo at Training Center](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/3.jpg)
+- ![Historic Aircraft Display](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/4.jpg)
+- ![Certificate Award](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/5.jpg)
+- ![HAL Auditorium](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/6.jpg)
+- ![Technical Presentation](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/7.jpg)
+- ![Lucknow Metro](https://github.com/Github-Aditya-Thakur/HAL--Summer-Intern-/blob/main/8.jpg)
+
 ## Folders and Artifacts
 
 - `/ECS_Procedures`: Diagrams, checklists, and process documents for ECS module assembly/overhaul.
